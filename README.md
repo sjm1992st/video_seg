@@ -5,5 +5,5 @@
 ![Alt text](https://github.com/sjm1992st/video_seg/blob/master/picture/1.PNG) <br>
 输出 根据每个标签分别建立文件夹 <br>
 ![Alt text](https://github.com/sjm1992st/video_seg/blob/master/picture/4.PNG) <br>
-[内容]： (https://github.com/sjm1992st/video_seg/blob/master/picture/(0623_%E6%84%8F%E5%A4%A7%E5%88%A9_%E7%88%B1%E5%B0%94%E5%85%B0_1st_half)_%E7%90%83%E9%97%A8%E7%90%83_29370_29454.xml)<br>
+内容：[xml](https://github.com/sjm1992st/video_seg/blob/master/picture/(0623_%E6%84%8F%E5%A4%A7%E5%88%A9_%E7%88%B1%E5%B0%94%E5%85%B0_1st_half)_%E7%90%83%E9%97%A8%E7%90%83_29370_29454.xml)<br>
 ![Alt text](https://github.com/sjm1992st/video_seg/blob/master/picture/5.PNG)
