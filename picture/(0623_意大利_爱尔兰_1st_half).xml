@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<VideoClipLabel>
+    <Folder path="E:\足球视频\3（6.22-6.27）\0623_意大利_爱尔兰">
+        <VFile name="0623_意大利_爱尔兰_1st_half.mkv">
+            <VClip name="" start="17838" end="17849" type="action" label="头球" sublabel="球在空中" domain="Football" roi="11 21 22 12" />
+            <VClip name="" start="17848" end="17873" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="11 21 22 12" />
+            <VClip name="" start="18794" end="18804" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="33 34" />
+            <VClip name="" start="19182" end="19196" type="action" label="头球" sublabel="球在空中" domain="Football" roi="23 33 34 24" />
+            <VClip name="" start="19195" end="19217" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="23 33 34 24" />
+            <VClip name="" start="21955" end="21973" type="action" label="头球" sublabel="球在空中" domain="Football" roi="13 23" />
+            <VClip name="" start="21972" end="21998" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="13 23" />
+            <VClip name="" start="22943" end="23193" type="action" label="掷界外球" sublabel="准备阶段" domain="Football" roi="32" />
+            <VClip name="" start="23193" end="23206" type="action" label="掷界外球" sublabel="掷球" domain="Football" roi="32" />
+            <VClip name="" start="23863" end="23871" type="action" label="头球" sublabel="球在空中" domain="Football" roi="33 34" />
+            <VClip name="" start="23871" end="23883" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="33 34" />
+            <VClip name="" start="25268" end="25288" type="action" label="掷界外球" sublabel="掷球" domain="Football" roi="11 21 31 32 22 12 13 23 33" />
+            <VClip name="" start="25543" end="25568" type="action" label="铲球" sublabel="准备阶段" domain="Football" roi="22" />
+            <VClip name="" start="25567" end="25592" type="action" label="铲球" sublabel="铲球" domain="Football" roi="22" />
+            <VClip name="" start="25898" end="25965" type="action" label="铲球" sublabel="铲球" domain="Football" roi="12 22 32 33 23 13 14 24 34" />
+            <VClip name="" start="26479" end="26547" type="action" label="任意球" sublabel="罚球" domain="Football" roi="11 21 31 32 22 12 13 23 33" />
+            <VClip name="" start="26547" end="26583" type="action" label="任意球" sublabel="罚球" domain="Football" roi="11 21 31 32 22 12 13 23 33" />
+            <VClip name="" start="27056" end="27091" type="action" label="掷界外球" sublabel="准备阶段" domain="Football" roi="23 33 34 24" />
+            <VClip name="" start="27090" end="27105" type="action" label="掷界外球" sublabel="掷球" domain="Football" roi="23 33 34 24" />
+            <VClip name="" start="27767" end="27808" type="action" label="角球" sublabel="发球" domain="Football" roi="12 22 32 33 23 13 14 24 34" />
+            <VClip name="" start="27876" end="27913" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="12 22" />
+            <VClip name="" start="28194" end="28220" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="11 21 31 32 22 12 13 23 33" />
+            <VClip name="" start="28634" end="28669" type="action" label="角球" sublabel="发球" domain="Football" roi="12 11" />
+            <VClip name="" start="29370" end="29454" type="action" label="球门球" sublabel="发球" domain="Football" roi="12 22 32 33 23 13 14 24 34" />
+            <VClip name="" start="29511" end="29540" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="22" />
+            <VClip name="" start="30260" end="30285" type="action" label="射门" sublabel="射门准备" domain="Football" roi="11 21 31 32 22 12 13 23 33" />
+            <VClip name="" start="30284" end="30304" type="action" label="射门" sublabel="射门" domain="Football" roi="11 21 31 32 22 12 13 23 33" />
+            <VClip name="" start="30299" end="30321" type="action" label="扑球" sublabel="" domain="Football" roi="11 21" />
+            <VClip name="" start="30902" end="30929" type="action" label="扑球" sublabel="" domain="Football" roi="12 22 33 23 11 21 31 13 32" />
+            <VClip name="" start="31263" end="31275" type="action" label="头球" sublabel="球在空中" domain="Football" roi="12 22 23 13" />
+            <VClip name="" start="32149" end="32172" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="23 33 34 24" />
+            <VClip name="" start="33080" end="33111" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="12 22 23 13" />
+            <VClip name="" start="33649" end="33694" type="action" label="球门球" sublabel="发球" domain="Football" roi="11 12 22 21" />
+            <VClip name="" start="36287" end="36451" type="action" label="掷界外球" sublabel="准备阶段" domain="Football" roi="12 22 32 33 23 13 14 24 34" />
+            <VClip name="" start="36450" end="36504" type="action" label="掷界外球" sublabel="掷球" domain="Football" roi="12 22 32 23 13 14 34 24 33" />
+            <VClip name="" start="37096" end="37196" type="action" label="球门球" sublabel="准备阶段" domain="Football" roi="11 21 31 32 22 12 13 23 33" />
+            <VClip name="" start="37195" end="37302" type="action" label="球门球" sublabel="发球" domain="Football" roi="11 21 31 32 22 12 13 23 33" />
+            <VClip name="" start="37493" end="37508" type="action" label="头球" sublabel="球在空中" domain="Football" roi="23 33 34 24" />
+            <VClip name="" start="37507" end="37521" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="23 33 34 24" />
+            <VClip name="" start="37579" end="37623" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="21 31 32 22" />
+            <VClip name="" start="37958" end="38201" type="action" label="掷界外球" sublabel="准备阶段" domain="Football" roi="32" />
+            <VClip name="" start="38200" end="38215" type="action" label="掷界外球" sublabel="掷球" domain="Football" roi="32" />
+            <VClip name="" start="39893" end="39924" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="13 23" />
+            <VClip name="" start="42699" end="42728" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="23 24" />
+            <VClip name="" start="42965" end="43013" type="action" label="掷界外球" sublabel="掷球" domain="Football" roi="33" />
+            <VClip name="" start="43874" end="43910" type="action" label="掷界外球" sublabel="掷球" domain="Football" roi="12 22 32 33 23 13 14 24 34" />
+            <VClip name="" start="44743" end="44824" type="action" label="球门球" sublabel="发球" domain="Football" roi="12 22 32 33 23 13 14 24 34" />
+            <VClip name="" start="45237" end="45297" type="action" label="掷界外球" sublabel="掷球" domain="Football" roi="33 32" />
+            <VClip name="" start="45948" end="46063" type="action" label="掷界外球" sublabel="准备阶段" domain="Football" roi="21 31 32 22" />
+            <VClip name="" start="46062" end="46085" type="action" label="掷界外球" sublabel="掷球" domain="Football" roi="21 31 32 22" />
+            <VClip name="" start="46192" end="46261" type="action" label="掷界外球" sublabel="掷球" domain="Football" roi="21 31 32 22" />
+            <VClip name="" start="46470" end="46571" type="action" label="掷界外球" sublabel="准备阶段" domain="Football" roi="12 22 32 33 23 13 14 24 34" />
+            <VClip name="" start="46570" end="46643" type="action" label="掷界外球" sublabel="掷球" domain="Football" roi="12 22 32 33 23 13 14 24 34" />
+            <VClip name="" start="46659" end="46688" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="12 22" />
+            <VClip name="" start="47681" end="47830" type="action" label="角球" sublabel="发球" domain="Football" roi="12 22 32 33 23 13 14 24 34" />
+            <VClip name="" start="47850" end="47869" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="23" />
+            <VClip name="" start="47865" end="47892" type="action" label="扑球" sublabel="" domain="Football" roi="22 12" />
+            <VClip name="" start="48149" end="48199" type="action" label="扑球" sublabel="" domain="Football" roi="12 22 32 33 23 13 14 24 34" />
+            <VClip name="" start="48331" end="48496" type="action" label="角球" sublabel="发球" domain="Football" roi="11 21 31 32 22 12 13 23 33" />
+            <VClip name="" start="48522" end="48542" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="13 23" />
+            <VClip name="" start="49060" end="49076" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="13" />
+            <VClip name="" start="49758" end="49782" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="22" />
+            <VClip name="" start="50066" end="50097" type="action" label="头球" sublabel="球在空中" domain="Football" roi="23 24" />
+            <VClip name="" start="50096" end="50104" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="23 24" />
+            <VClip name="" start="50158" end="50173" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="22" />
+            <VClip name="" start="51329" end="51546" type="action" label="掷界外球" sublabel="准备阶段" domain="Football" roi="31 32 21 22" />
+            <VClip name="" start="51545" end="51571" type="action" label="掷界外球" sublabel="掷球" domain="Football" roi="21 31 32 22" />
+            <VClip name="" start="53909" end="53958" type="action" label="球门球" sublabel="发球" domain="Football" roi="24 23 14 13" />
+            <VClip name="" start="55176" end="55197" type="action" label="铲球" sublabel="准备阶段" domain="Football" roi="32 22" />
+            <VClip name="" start="55196" end="55225" type="action" label="铲球" sublabel="铲球" domain="Football" roi="22 32" />
+            <VClip name="" start="55436" end="55512" type="action" label="铲球" sublabel="铲球" domain="Football" roi="12 22 32 33 23 13 14 24 34" />
+            <VClip name="" start="56490" end="56531" type="action" label="任意球" sublabel="罚球" domain="Football" roi="12 22 32 33 23 13 14 24 34" />
+            <VClip name="" start="57955" end="57977" type="action" label="角球" sublabel="发球" domain="Football" roi="12" />
+            <VClip name="" start="58354" end="58382" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="22 32 33 23" />
+            <VClip name="" start="58533" end="58565" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="11 21 31 32 22 12 13 23 33" />
+            <VClip name="" start="60994" end="61015" type="action" label="角球" sublabel="发球" domain="Football" roi="12 22 32 33 14 34 13 24 23" />
+            <VClip name="" start="62412" end="62427" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="22" />
+            <VClip name="" start="63630" end="63663" type="action" label="角球" sublabel="发球" domain="Football" roi="12" />
+            <VClip name="" start="63868" end="63889" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="12 22 32 33 23 13 14 24 34" />
+            <VClip name="" start="65939" end="65958" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="24 23" />
+            <VClip name="" start="66595" end="66613" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="32" />
+            <VClip name="" start="68715" end="68746" type="action" label="头球" sublabel="球在空中" domain="Football" roi="32 21 22 31" />
+            <VClip name="" start="68745" end="68771" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="21 31 32 22" />
+            <VClip name="" start="69020" end="69040" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="12 22 32 33 23 13 14 24 34" />
+            <VClip name="" start="69746" end="69797" type="action" label="头球" sublabel="球在空中" domain="Football" roi="12 22 23 13" />
+            <VClip name="" start="69796" end="69824" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="12 22 23 13" />
+            <VClip name="" start="69971" end="69984" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="24 34" />
+            <VClip name="" start="69999" end="70021" type="action" label="头球" sublabel="球在空中" domain="Football" roi="12 22" />
+            <VClip name="" start="70020" end="70043" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="12 22" />
+            <VClip name="" start="70028" end="70059" type="action" label="头球" sublabel="球在空中" domain="Football" roi="11 21 22 12" />
+            <VClip name="" start="70058" end="70090" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="22 21 11 12" />
+            <VClip name="" start="70104" end="70119" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="23" />
+            <VClip name="" start="70577" end="70603" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="12 22 32 33 23 13 11 21 31" />
+            <VClip name="" start="70793" end="70822" type="action" label="头球" sublabel="球在空中" domain="Football" roi="23 13" />
+            <VClip name="" start="70821" end="70839" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="13 23" />
+            <VClip name="" start="72270" end="72284" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="23" />
+            <VClip name="" start="74095" end="74184" type="action" label="任意球" sublabel="罚球" domain="Football" roi="11 21 31 32 22 12 13 23 33" />
+            <VClip name="" start="74910" end="74953" type="action" label="出牌" sublabel="" domain="Football" roi="12 22 32 33 23 13 14 24 34" />
+            <VClip name="" start="77602" end="77659" type="action" label="任意球" sublabel="罚球" domain="Football" roi="12 22 32 33 23 13 14 24 34" />
+            <VClip name="" start="80029" end="80060" type="action" label="射门" sublabel="射门准备" domain="Football" roi="12 22 32 33 23 13 14 34 24" />
+            <VClip name="" start="80059" end="80081" type="action" label="射门" sublabel="射门" domain="Football" roi="12 22 32 33 23 13 14 24 34" />
+            <VClip name="" start="80347" end="80372" type="action" label="射门" sublabel="射门准备" domain="Football" roi="12 22 32 33 23 13 14 24 34" />
+            <VClip name="" start="80371" end="80396" type="action" label="射门" sublabel="射门" domain="Football" roi="12 22 32 33 23 13 14 24 34" />
+            <VClip name="" start="80511" end="80543" type="action" label="扑球" sublabel="" domain="Football" roi="13 23 24 14" />
+            <VClip name="" start="80867" end="80883" type="action" label="头球" sublabel="球在空中" domain="Football" roi="12 22" />
+            <VClip name="" start="80882" end="80906" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="12 22" />
+            <VClip name="" start="82705" end="82734" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="21 22 12 11" />
+            <VClip name="" start="85142" end="85175" type="action" label="掷界外球" sublabel="掷球" domain="Football" roi="12" />
+            <VClip name="" start="85989" end="86083" type="action" label="球门球" sublabel="准备阶段" domain="Football" roi="12 23 22 13 11 21 31 32 33" />
+            <VClip name="" start="86082" end="86354" type="action" label="球门球" sublabel="发球" domain="Football" roi="11 21 31 32 22 12 13 23 33" />
+            <VClip name="" start="31268" end="31296" type="action" label="头球" sublabel="争顶到球" domain="Football" roi="12 22 23 13" />
+        </VFile>
+    </Folder>
+</VideoClipLabel>

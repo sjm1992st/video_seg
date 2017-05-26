@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<VClip>
+		<name>E:\pythonworkspace\video_seg\ood\球门球\(0623_意大利_爱尔兰_1st_half)_球门球_29370_29454</name>
+		<domain>football</domain>
+		<label>
+			<name>球门球</name>
+			<sublabel>
+				<name>发球</name>
+				<start>29370</start>
+				<end>29454</end>
+			</sublabel>
+			<roi>12 22 32 33 23 13 14 24 34</roi>
+		</label>
+	</VClip>
